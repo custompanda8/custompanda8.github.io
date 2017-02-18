@@ -1,13 +1,13 @@
-Package: com.custompanda8.test
+Package: com.custompanda8.Cocoa.theme
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: custompanda8 <contact@custompanda.tk>
-Filename: /test.deb
-Size: 88141
-MD5sum: ec8ffd1911beb72db087886176d0d587
-SHA1: 546b95869477410c11c5a1ac5a63b9f110977fc2
-SHA256: 4ad12da4d1670a8aba98ee09d466e4d46d16f6f79cfa4fed1d37c5aef9ada6b4
-Section: panda Tweaks
-Description: This is a test tweak for my repo. Do not download, will cause and download loop.
+Filename: /cocoa.theme.deb
+Size: 105422
+MD5sum: f04d9557beab4ad9f81f91fa4f1ff57c
+SHA1: 327cb65bea4a8305cb5f4bec39d39183f445dfe8
+SHA256: 91902107612d62c588505ebb3213a78d5ebaf57bbd1c36312031f7acf9d1ac50
+Section: Themes
+Description: Cocoa is a theme based on colors. Download for free.
 Author: custompanda8 <contact@custompanda.tk>
-Name: panda test
+Name: Cocoa
