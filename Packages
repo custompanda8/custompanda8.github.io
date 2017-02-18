@@ -1,0 +1,13 @@
+Package: com.custompanda8.test
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: custompanda8 <test@test.com>
+Filename: /test.deb
+Size: 88141
+MD5sum: ec8ffd1911beb72db087886176d0d587
+SHA1: 546b95869477410c11c5a1ac5a63b9f110977fc2
+SHA256: 4ad12da4d1670a8aba98ee09d466e4d46d16f6f79cfa4fed1d37c5aef9ada6b4
+Section: Tweaks
+Description: A test tweak for my repo
+Author: custompanda8 <test@test.com>
+Name: custompanda8
