@@ -2,7 +2,7 @@ Package: com.custompanda8.Cocoa.theme
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: custompanda8 <contact@custompanda.tk>
-Filename: /cocoa.theme.deb
+Filename: /cocoa.deb
 Size: 105422
 MD5sum: f04d9557beab4ad9f81f91fa4f1ff57c
 SHA1: 327cb65bea4a8305cb5f4bec39d39183f445dfe8
