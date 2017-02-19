@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: custompanda8 <contact@custompanda8.tk>
 Depends: Anemone
 Filename: ./debs/com.creaturecoding.fastdel_0.1_iphoneos-arm.deb
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
+Size: 107107
+MD5sum: 8e5ec0013601ecf75d5fb7a880f45e01
+SHA1: 1231d289442907acba658adafbad81564b16c1c7
+SHA256: 074c424edb030805daa53f9e3a81a91074d6be9b5a97b64b91202a9667bc5dfe
 Section: Tweaks
 Description: REQUIRES ANEMONE - Cocoa is a beautiful theme for your iPhone, with beautiful and unique flat icons you'll never get bored.
 Author: custompanda8 <contact@custompanda8.tk>

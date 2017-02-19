@@ -1,0 +1,9 @@
+Package: com.custompanda.cocoa
+Name: Cocoa 
+Version: 0.1 
+Architecture:iphoneos-arm 
+Description: A theme 
+Maintainer: custompanda8 
+Author: custompanda8
+Section: Themes 
+Depends: Anemone
