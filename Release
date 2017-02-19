@@ -1,8 +1,9 @@
-Origin: custompanda8's Repo
-Label: custompanda8's Repo
+Origin: CreatureSurvive's Repo
+Label: CreatureSurvive's Repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: CreatureSurvive's Repo
 Architectures: iphoneos-arm
 Components: main
-Description: cp8's Repo
+Description: My Personal Repo
+Icon: file://CydiaIcon.png
