@@ -2,7 +2,7 @@ Package: com.custompanda8.Cocoa
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: custompanda8 <contact@custompanda.tk>
-Filename: /cocoa.deb
+Filename: /cocoa.theme
 Size: 105182
 MD5sum: 1cde49e6d0dc46dcb71aa1fddb8a380c
 SHA1: 685a8f3a5a14437c8ed1330e35f6b90b2329ff7b
@@ -10,4 +10,4 @@ SHA256: 1bbdc46d3c2370817745a0cb5af3e7449611d42ec63989d5d8f9b930bb27057c
 Section: Themes
 Description: Cocoa is a theme based on colors. Download for free.
 Author: custompanda8 <contact@custompanda.tk>
-Name: Cocoa
+Name: Cocoa 2
